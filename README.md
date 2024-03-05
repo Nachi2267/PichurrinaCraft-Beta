@@ -4,4 +4,4 @@ PICHURRINA CRAFT BETA TEST
 
 
 # Changelog
-v0.1: -Nueva intro wow
+v0.1: -Nueva intro 
