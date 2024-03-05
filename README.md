@@ -1,6 +1,5 @@
-# nachi2267.github.io
-PICHURRINA CRAFT BETA TEST
-
+# PICHURRINA CRAFT BETA TEST
+Beta (probably bugs): nachi2267.github.io/PichurrinaCraft-beta
 
 
 # Changelog
