@@ -1,5 +1,5 @@
 [![PICHURRINACRAFT-9-3-2024.png](https://i.postimg.cc/W4SW3ZxY/PICHURRINACRAFT-9-3-2024.png)](https://postimg.cc/4K7b2Yfp)
-[![by-naxo-9-3-2024.png](https://i.postimg.cc/pdd7KkQM/by-naxo-9-3-2024.png)](https://postimg.cc/FY2D4ynT)
+[![by-naxo-9-3-2024.png](https://i.postimg.cc/8kvYd7vc/by-naxo-9-3-2024.png)](https://postimg.cc/ThRQfYCv)
 # PICHURRINA CRAFT BETA TEST
 Beta (probably bugs): nachi2267.github.io/PichurrinaCraft-beta
 
