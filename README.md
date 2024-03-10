@@ -3,6 +3,7 @@
 # PICHURRINA CRAFT BETA TEST
 Beta (probably bugs): nachi2267.github.io/PichurrinaCraft-beta
 
+based on EagleCraft
 
 # Changelog
 v0.1: -Nueva intro 
