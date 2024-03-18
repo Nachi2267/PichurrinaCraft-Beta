@@ -10,4 +10,4 @@ Traducciones por: naxo y WallBros
 v0.1: -Nueva intro 
 v0.2: -Nuevos cuadros
       -Nuevos discos de música
-v0.3: -nada
+v0.3: 
