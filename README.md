@@ -3,7 +3,7 @@
 # PICHURRINA CRAFT BETA TEST
 - [Edición normal](https://nachi2267.github.io/PichurrinaCraft/)
 based on EagleCraft
-Traducciones por: naxo y WallBros
+- Traducciones por: naxo y WallBros
 
 ## Changelog
 v0.1: -Nueva intro 
