@@ -6,7 +6,7 @@ Beta (probably bugs): nachi2267.github.io/PichurrinaCraft-beta
 based on EagleCraft
 Traducciones por: naxo y WallBros
 
-# Changelog
+## Changelog
 v0.1: -Nueva intro 
 v0.2: -Nuevos cuadros
       -Nuevos discos de música
